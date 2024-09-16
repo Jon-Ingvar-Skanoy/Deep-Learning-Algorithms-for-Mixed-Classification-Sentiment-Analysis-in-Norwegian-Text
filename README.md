@@ -5,7 +5,16 @@ This repository contains the code and results of a Bachelor's thesis project foc
 **Authors**: Isak Killingrød, Jon Ingvar Jonassen Skånøy
 
 **Supervisor**: Mohammad Arif Payenda
+## Evaluation 
+Grade: A
 
+Justification: The candidates have implemented and tested several machine learning models and ensembles of models on data that either label a given sentence as positive/negative/neutral for "ternary" labels or positive/negative/neutral/mixed for "mixed" labels. They have optimized the results for the same dataset's ternary and mixed-label variants by fine-tuning singular models and creating and testing various ensemble models.
+
+
+The candidates' work is characterized by its exceptional quality, and they have achieved commendable results. They have adeptly employed complex algorithms and conducted exemplary scientific research, demonstrating remarkable self-sufficiency. The practical applications of their findings carry considerable significance.
+
+
+The thesis is well-written and academic. The problem statement and objective are clearly articulated. The background section provides detailed descriptions. The experiments are conducted to a high standard, with comprehensive documentation of the research process and results. The results and conclusion are presented in great detail, and there is a strong element of self-reflection throughout.
 ## Introduction
 This project investigates the impact of introducing a mixed sentiment label in Norwegian text datasets and evaluates the performance of various machine learning models under this configuration. The goal is to improve sentiment analysis by accurately classifying nuanced sentiments that traditional binary or ternary classification might overlook.
 
@@ -44,15 +53,6 @@ The results indicate that models generally perform worse on datasets with mixed 
 The introduction of mixed sentiment labels presents challenges for deep learning models in sentiment analysis. Nevertheless, leveraging ensemble techniques and advanced models like NorT5 can mitigate some difficulties and improve performance.
 
 
-## Evaluation 
-Grade: A
 
-Justification: The candidates have implemented and tested several machine learning models and ensembles of models on data that either label a given sentence as positive/negative/neutral for "ternary" labels or positive/negative/neutral/mixed for "mixed" labels. They have optimized the results for the same dataset's ternary and mixed-label variants by fine-tuning singular models and creating and testing various ensemble models.
-
-
-The candidates' work is characterized by its exceptional quality, and they have achieved commendable results. They have adeptly employed complex algorithms and conducted exemplary scientific research, demonstrating remarkable self-sufficiency. The practical applications of their findings carry considerable significance.
-
-
-The thesis is well-written and academic. The problem statement and objective are clearly articulated. The background section provides detailed descriptions. The experiments are conducted to a high standard, with comprehensive documentation of the research process and results. The results and conclusion are presented in great detail, and there is a strong element of self-reflection throughout.
 
 
